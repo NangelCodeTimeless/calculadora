@@ -1,6 +1,6 @@
-package Calculadora.gui;
+package app.gui;
 
-import Calculadora.controlador.ControladorCalculadora;
+import app.controlador.ControladorCalculadora;
 
 import javax.swing.*;
 import java.awt.*;

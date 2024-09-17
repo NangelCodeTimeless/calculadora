@@ -1,7 +1,7 @@
-package Calculadora;
-import Calculadora.gui.GuiCalculadora;
+package app;
+import app.gui.GuiCalculadora;
 
-public class main {
+public class Run {
 
     public static void main(String[] args) {
         GuiCalculadora objCalculadora = new GuiCalculadora();
